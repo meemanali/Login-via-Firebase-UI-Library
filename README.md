@@ -23,7 +23,7 @@ After successfully signing in, you can retrieve the user's image, name, email, e
 </p>
 
 # Getting Started:
-To use this project on your system, follow the steps below:
+As the project does not contain play-services.json file, thus you have to get your own from Firebase. To get this config file and to use the project on your system, follow the steps below:
 
 <h4>Create a Firebase Project:</h4>
 
