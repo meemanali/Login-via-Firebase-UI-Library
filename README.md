@@ -1,5 +1,5 @@
 # Login-via-Firebase-UI-Library
-Welcome to "Login-via-Firebase-UI-Library". It contains an Android App which helps users to sign in with their Email, Google account, Github, Facebook, Twitter and with their phone number. Some features in this project are:
+Welcome to "Login-via-Firebase-UI-Library" repo. It contains an Android App which helps users to sign in with their Email, Google account, Github, Facebook, Twitter and with their phone number. Some features in this project are:
 
 * Sign in using Email, Google, Github, Facebook, Twitter, or phone number.
 * Firebase Authentication for secure and easy authentication methods.
