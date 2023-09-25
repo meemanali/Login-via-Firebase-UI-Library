@@ -16,7 +16,7 @@ Welcome to "Login-via-Firebase-UI-Library" repo. It contains an Android App whic
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%202.png" alt="Sign in Screen" width="310" title="Sign in Screen">
 </span>
 
-<span align="center">
+<span>
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%203.png" alt="Main Screen After Sign In" width="310" title="Main Screen After Sign In">
 </span>
 
