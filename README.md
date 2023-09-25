@@ -13,9 +13,9 @@ Click on Login.
 </p>
 
 Sign in with any proovider you want.
-<p align="center">
+<span align="center">
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%202.png" alt="Sign in Screen" width="310" title="Sign in Screen">
-</p>
+</span>
 
 After successfully signing in, you can retrieve the user's image, name, email, etc.
 <p align="center">
