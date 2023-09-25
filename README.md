@@ -26,7 +26,7 @@ As the project does not contain play-services.json file, thus you have to get yo
 <h4>Create a Firebase Project:</h4>
 
 * Go to the [Firebase Console](https://firebase.google.com/)
-* Click on "Add project" and follow the prompts to create a new project.
+* Click 'Add Project' and follow the prompts to create a new project with the same project ID as this one.
 
 <h4>Enable Google Sign-In:</h4>
 
