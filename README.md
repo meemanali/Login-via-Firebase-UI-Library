@@ -8,9 +8,9 @@ Welcome to "Login-via-Firebase-UI-Library" repo. It contains an Android App whic
 
 # Preview:
 Click on Login.
-<p align="center">
+<span align="center">
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%201.png" alt="Main Screen" width="310" title="Main Screen">
-</p>
+</span>
 
 Sign in with any proovider you want.
 <span align="center">
