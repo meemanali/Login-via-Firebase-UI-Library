@@ -7,12 +7,12 @@ Welcome to "Login-via-Firebase-UI-Library" repo. It contains an Android App whic
 * Easily customizable for your own branding.
 
 # Preview:
-Click on Login.
+
 <span>
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%201.png" alt="Main Screen" width="310" title="Main Screen">
 </span>
 
-Sign in with any proovider you want.
+
 <span>
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%202.png" alt="Sign in Screen" width="310" title="Sign in Screen">
 </span>
