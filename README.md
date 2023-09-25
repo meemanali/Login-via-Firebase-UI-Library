@@ -12,12 +12,10 @@ Welcome to "Login-via-Firebase-UI-Library" repo. It contains an Android App whic
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%201.png" alt="Main Screen" width="310" title="Main Screen">
 </span>
 
-
 <span>
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%202.png" alt="Sign in Screen" width="310" title="Sign in Screen">
 </span>
 
-After successfully signing in, you can retrieve the user's image, name, email, etc.
 <span align="center">
   <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%203.png" alt="Main Screen After Sign In" width="310" title="Main Screen After Sign In">
 </span>
