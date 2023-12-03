@@ -7,9 +7,9 @@ Welcome to "Login-via-Firebase-UI-Library" repo. It contains an Android App whic
 * Easily customizable for your own branding.
 
 # Preview:
-Pic 1: Click on Login. <br>
-Pic 2: Sign in with Google. <br>
-Pic 3: After successfully signing in, you can retrieve the user's image, name, email associated wirh that Google account. <br>
+Pic 1: Click on Login.<br>
+Pic 2: Sign in with Google.<br>
+Pic 3: After successfully signing in, you can retrieve the user's image, name, email associated wirh that Google account.<br>
 
 <div style="display: flex; justify-content: space-between; margin: 10;">
     <img src="https://github.com/meemanali/Login-via-Firebase-UI-Library/blob/master/Login-via-Firebase-UI-Library%201.png" alt="Main Screen" width="250" title="Main Screen">
